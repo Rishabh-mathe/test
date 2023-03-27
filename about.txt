@@ -1,4 +1,2 @@
 this is first commit from parent
-Hey I'm writing from child and this is my first commit
-this is second commit from child
 this is the commit after the merg
